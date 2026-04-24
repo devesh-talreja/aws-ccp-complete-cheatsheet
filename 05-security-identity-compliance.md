@@ -89,10 +89,6 @@
 - Dedicated hardware
 - Meet compliance requirements
 **Memory Trick:** "HSM = Hardware Security = Physical device"
-
----
 ---
 
-<p align="center">
-  [< Networking & Content Delivery](04-networking-content-delivery.md) | [Back to README](README.md) | [Management & Governance >](06-management-governance.md)
-</p>
+[< Networking & Content Delivery](04-networking-content-delivery.md) | [Back to README](README.md) | [Management & Governance >](06-management-governance.md)

@@ -44,7 +44,6 @@
 **Key Points:**
 - Connects on-premises to AWS storage
 - Three types: File, Volume, Tape Gateway
-
 ---
 
-  [< Compute Services](01-compute-services.md) | [Back to README](README.md) | [Database Services >](03-database-services.md)
+[< Compute Services](01-compute-services.md) | [Back to README](README.md) | [Database Services >](03-database-services.md)

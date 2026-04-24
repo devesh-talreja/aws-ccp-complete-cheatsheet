@@ -41,10 +41,6 @@
 **Supports:** Redis, Memcached
 **Real-life:** Like keeping frequently used items on your desk instead of in a filing cabinet
 **Memory Trick:** "ElastiCache = Elastic memory = Super fast temporary storage"
-
----
 ---
 
-<p align="center">
-  [< Storage Services](02-storage-services.md) | [Back to README](README.md) | [Networking & Content Delivery >](04-networking-content-delivery.md)
-</p>
+[< Storage Services](02-storage-services.md) | [Back to README](README.md) | [Networking & Content Delivery >](04-networking-content-delivery.md)
