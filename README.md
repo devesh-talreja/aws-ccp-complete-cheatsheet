@@ -8,7 +8,7 @@
 
 ---
 
-I built this comprehensive revision guide while preparing for my **AWS Certified Cloud Practitioner (CLF-C02)** exam. These modular notes are designed to simplify cloud concepts and focus strictly on what you need to know to pass.
+I built this comprehensive revision guide while preparing for my **AWS Certified Cloud Practitioner (CLF-C02)** exam with AI helping me articulate and consolidate concepts as I studied. These modular notes are designed to simplify cloud concepts and focus strictly on what you need to know to pass.
 
 **Why use these notes?**
 - **Foundational Focus:** Clear breakdowns of core services, billing, and the shared responsibility model.
@@ -22,32 +22,32 @@ Use these as your final revision companion to bridge the gap between courses and
 
 | #  | Section                                                                         | What's Inside                                                                                     |
 | -- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| 1  | [COMPUTE SERVICES](sections/01-compute-services.md)                                | EC2, Lambda, Elastic Beanstalk, Lightsail, ECS, EKS                                               |
-| 2  | [STORAGE SERVICES](sections/02-storage-services.md)                                | S3 (tiers), EBS, EFS, Storage Gateway                                                             |
-| 3  | [DATABASE SERVICES](sections/03-database-services.md)                              | RDS, Aurora, DynamoDB, Redshift, ElastiCache                                                      |
-| 4  | [NETWORKING &amp; CONTENT DELIVERY](sections/04-networking-content-delivery.md)    | VPC, CloudFront, Route 53, Direct Connect, VPN, API Gateway                                       |
-| 5  | [SECURITY, IDENTITY &amp; COMPLIANCE](sections/05-security-identity-compliance.md) | IAM, Cognito, Artifact, GuardDuty, WAF, Shield, KMS                                               |
-| 6  | [MANAGEMENT &amp; GOVERNANCE](sections/06-management-governance.md)                | CloudWatch, CloudTrail, Config, Trusted Advisor, Control Tower                                    |
-| 7  | [APPLICATION INTEGRATION](sections/07-application-integration.md)                  | SQS, SNS, EventBridge, Step Functions                                                             |
-| 8  | [ANALYTICS](sections/08-analytics.md)                                              | Athena, EMR, Kinesis, Glue, QuickSight                                                            |
-| 9  | [MACHINE LEARNING](sections/09-machine-learning.md)                                | SageMaker, Rekognition, Comprehend, Lex, Polly, Personalize                                       |
-| 10 | [MIGRATION &amp; TRANSFER](sections/10-migration-transfer.md)                      | Snow Family, DMS, Migration Hub, DataSync                                                         |
-| 11 | [COST MANAGEMENT](sections/11-cost-management.md)                                  | Cost Explorer, Budgets, Pricing Calculator, Savings Plans                                         |
-| 12 | [OTHER IMPORTANT SERVICES](sections/12-other-important-services.md)                | CloudFormation, ELB, Auto Scaling, Outposts, WorkSpaces                                           |
-| 13 | [KEY COMPARISONS TO AVOID CONFUSION](sections/13-key-comparisons.md)               | EC2 vs Lambda, S3 vs EBS vs EFS, RDS vs DynamoDB, SNS vs SQS                                      |
-| 14 | [WELL-ARCHITECTED FRAMEWORK](sections/14-well-architected-framework.md)            | The 6 Pillars: Operational Excellence, Security, Reliability, Performance, Cost, Sustainability   |
-| 15 | [CLOUD CONCEPTS (FUNDAMENTAL)](sections/15-cloud-concepts.md)                      | Six advantages of cloud computing, deployment models, IaaS vs PaaS vs SaaS, Shared Responsibility |
-| 16 | [SUPPORT PLANS](sections/16-support-plans.md)                                      | Basic, Developer, Business, Enterprise On-Ramp, Enterprise differences                            |
-| 17 | [REGIONAL SERVICES VS GLOBAL SERVICES](sections/17-regional-vs-global.md)          | IAM, Route 53, CloudFront vs EC2, RDS, VPC                                                        |
-| 18 | [CATEGORIZED SUMMARY](sections/18-categorized-summary.md)                          | Quick list of services mapped to their core categories                                            |
-| 19 | [EXAM STRATEGY TIPS](sections/19-exam-strategy-tips.md)                            | Keywords to watch for ("cost-effective", "real-time"), common traps                               |
-| 20 | [PRICING QUICK REFERENCE](sections/20-pricing-quick-reference.md)                  | Free tier limits, Pay-As-You-Go models, Data Transfer IN vs OUT costs                             |
-| 21 | [ACRONYM MASTER LIST](sections/21-acronym-master-list.md)                          | Unlocking the alphabet soup: AMI, ARN, CIDR, IOPS, SG, etc.                                       |
-| 22 | [REAL-WORLD USE CASE SCENARIOS](sections/22-real-world-scenarios.md)               | Architecture mapping for E-Commerce, Mobile Backend, Data Analytics                               |
-| 23 | [FINAL EXAM DAY TIPS](sections/23-final-exam-day-tips.md)                          | What to do before the exam, during the exam, and green/red flags                                  |
-| 24 | [QUICK MEMORIZATION TECHNIQUES](sections/24-quick-memorization.md)                 | Memory Palaces, Rhymes, and Mnemonics (e.g. "My Poor Older Sister...")                            |
-| 25 | [LAST-MINUTE POWER FACTS](sections/25-last-minute-power-facts.md)                  | 20 rapid-fire facts that show up constantly on the CCP exam                                       |
-| 26 | [CONFIDENCE BUILDER](sections/26-confidence-builder.md)                            | Final checklist to verify you are ready for the test                                              |
+| 1  | [COMPUTE SERVICES](01-compute-services.md)                                | EC2, Lambda, Elastic Beanstalk, Lightsail, ECS, EKS                                               |
+| 2  | [STORAGE SERVICES](02-storage-services.md)                                | S3 (tiers), EBS, EFS, Storage Gateway                                                             |
+| 3  | [DATABASE SERVICES](03-database-services.md)                              | RDS, Aurora, DynamoDB, Redshift, ElastiCache                                                      |
+| 4  | [NETWORKING &amp; CONTENT DELIVERY](04-networking-content-delivery.md)    | VPC, CloudFront, Route 53, Direct Connect, VPN, API Gateway                                       |
+| 5  | [SECURITY, IDENTITY &amp; COMPLIANCE](05-security-identity-compliance.md) | IAM, Cognito, Artifact, GuardDuty, WAF, Shield, KMS                                               |
+| 6  | [MANAGEMENT &amp; GOVERNANCE](06-management-governance.md)                | CloudWatch, CloudTrail, Config, Trusted Advisor, Control Tower                                    |
+| 7  | [APPLICATION INTEGRATION](07-application-integration.md)                  | SQS, SNS, EventBridge, Step Functions                                                             |
+| 8  | [ANALYTICS](08-analytics.md)                                              | Athena, EMR, Kinesis, Glue, QuickSight                                                            |
+| 9  | [MACHINE LEARNING](09-machine-learning.md)                                | SageMaker, Rekognition, Comprehend, Lex, Polly, Personalize                                       |
+| 10 | [MIGRATION &amp; TRANSFER](10-migration-transfer.md)                      | Snow Family, DMS, Migration Hub, DataSync                                                         |
+| 11 | [COST MANAGEMENT](11-cost-management.md)                                  | Cost Explorer, Budgets, Pricing Calculator, Savings Plans                                         |
+| 12 | [OTHER IMPORTANT SERVICES](12-other-important-services.md)                | CloudFormation, ELB, Auto Scaling, Outposts, WorkSpaces                                           |
+| 13 | [KEY COMPARISONS TO AVOID CONFUSION](13-key-comparisons.md)               | EC2 vs Lambda, S3 vs EBS vs EFS, RDS vs DynamoDB, SNS vs SQS                                      |
+| 14 | [WELL-ARCHITECTED FRAMEWORK](14-well-architected-framework.md)            | The 6 Pillars: Operational Excellence, Security, Reliability, Performance, Cost, Sustainability   |
+| 15 | [CLOUD CONCEPTS (FUNDAMENTAL)](15-cloud-concepts.md)                      | Six advantages of cloud computing, deployment models, IaaS vs PaaS vs SaaS, Shared Responsibility |
+| 16 | [SUPPORT PLANS](16-support-plans.md)                                      | Basic, Developer, Business, Enterprise On-Ramp, Enterprise differences                            |
+| 17 | [REGIONAL SERVICES VS GLOBAL SERVICES](17-regional-vs-global.md)          | IAM, Route 53, CloudFront vs EC2, RDS, VPC                                                        |
+| 18 | [CATEGORIZED SUMMARY](18-categorized-summary.md)                          | Quick list of services mapped to their core categories                                            |
+| 19 | [EXAM STRATEGY TIPS](19-exam-strategy-tips.md)                            | Keywords to watch for ("cost-effective", "real-time"), common traps                               |
+| 20 | [PRICING QUICK REFERENCE](20-pricing-quick-reference.md)                  | Free tier limits, Pay-As-You-Go models, Data Transfer IN vs OUT costs                             |
+| 21 | [ACRONYM MASTER LIST](21-acronym-master-list.md)                          | Unlocking the alphabet soup: AMI, ARN, CIDR, IOPS, SG, etc.                                       |
+| 22 | [REAL-WORLD USE CASE SCENARIOS](22-real-world-scenarios.md)               | Architecture mapping for E-Commerce, Mobile Backend, Data Analytics                               |
+| 23 | [FINAL EXAM DAY TIPS](23-final-exam-day-tips.md)                          | What to do before the exam, during the exam, and green/red flags                                  |
+| 24 | [QUICK MEMORIZATION TECHNIQUES](24-quick-memorization.md)                 | Memory Palaces, Rhymes, and Mnemonics (e.g. "My Poor Older Sister...")                            |
+| 25 | [LAST-MINUTE POWER FACTS](25-last-minute-power-facts.md)                  | 20 rapid-fire facts that show up constantly on the CCP exam                                       |
+| 26 | [CONFIDENCE BUILDER](26-confidence-builder.md)                            | Final checklist to verify you are ready for the test                                              |
 
 ---
 
