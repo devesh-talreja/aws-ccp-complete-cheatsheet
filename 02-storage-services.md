@@ -46,8 +46,5 @@
 - Three types: File, Volume, Tape Gateway
 
 ---
----
 
-<p align="center">
   [< Compute Services](01-compute-services.md) | [Back to README](README.md) | [Database Services >](03-database-services.md)
-</p>
