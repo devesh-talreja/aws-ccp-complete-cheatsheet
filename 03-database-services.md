@@ -47,5 +47,5 @@
 ---
 
 <p align="center">
-  [← prev](02-storage-services.md) | [README](../README.md) | [next →](04-networking-content-delivery.md)
+  [← prev](02-storage-services.md) | [README](README.md) | [next →](04-networking-content-delivery.md)
 </p>

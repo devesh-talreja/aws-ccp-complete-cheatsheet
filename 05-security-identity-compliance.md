@@ -95,5 +95,5 @@
 ---
 
 <p align="center">
-  [← prev](04-networking-content-delivery.md) | [README](../README.md) | [next →](06-management-governance.md)
+  [← prev](04-networking-content-delivery.md) | [README](README.md) | [next →](06-management-governance.md)
 </p>

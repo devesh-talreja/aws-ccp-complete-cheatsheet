@@ -59,5 +59,5 @@
 ---
 
 <p align="center">
-  [← prev](03-database-services.md) | [README](../README.md) | [next →](05-security-identity-compliance.md)
+  [← prev](03-database-services.md) | [README](README.md) | [next →](05-security-identity-compliance.md)
 </p>

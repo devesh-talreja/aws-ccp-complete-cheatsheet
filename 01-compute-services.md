@@ -52,5 +52,5 @@
 ---
 
 <p align="center">
-  ← prev | [README](../README.md) | [next →](02-storage-services.md)
+  ← prev | [README](README.md) | [next →](02-storage-services.md)
 </p>
