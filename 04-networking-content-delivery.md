@@ -53,6 +53,7 @@
 - RESTful and WebSocket APIs
 - Scales automatically
 - **Memory Trick:** "API Gateway = Door to your services"
+
 ---
 
 [< Database Services](03-database-services.md) | [Back to README](README.md) | [Security, Identity & Compliance >](05-security-identity-compliance.md)

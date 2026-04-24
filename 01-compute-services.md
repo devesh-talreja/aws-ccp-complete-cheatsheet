@@ -46,6 +46,7 @@
 **EKS:** Elastic Kubernetes Service (Kubernetes-managed)
 **Real-life:** Like shipping containers that hold your application
 **Memory Trick:** "ECS = Easy Container Service, EKS = Expert Kubernetes Service"
+
 ---
 
 ← Home | [Back to README](README.md) | [Storage Services >](02-storage-services.md)
