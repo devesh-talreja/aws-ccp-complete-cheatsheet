@@ -48,9 +48,8 @@
 **Memory Trick:** "ECS = Easy Container Service, EKS = Expert Kubernetes Service"
 
 ---
-
 ---
 
 <p align="center">
-  ← prev | [README](README.md) | [next →](02-storage-services.md)
+  ← Home | [Back to README](README.md) | [Storage Services >](02-storage-services.md)
 </p>

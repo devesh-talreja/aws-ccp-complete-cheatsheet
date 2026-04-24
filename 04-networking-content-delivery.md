@@ -55,9 +55,8 @@
 - **Memory Trick:** "API Gateway = Door to your services"
 
 ---
-
 ---
 
 <p align="center">
-  [← prev](03-database-services.md) | [README](README.md) | [next →](05-security-identity-compliance.md)
+  [< Database Services](03-database-services.md) | [Back to README](README.md) | [Security, Identity & Compliance >](05-security-identity-compliance.md)
 </p>

@@ -43,9 +43,8 @@
 **Memory Trick:** "ElastiCache = Elastic memory = Super fast temporary storage"
 
 ---
-
 ---
 
 <p align="center">
-  [← prev](02-storage-services.md) | [README](README.md) | [next →](04-networking-content-delivery.md)
+  [< Storage Services](02-storage-services.md) | [Back to README](README.md) | [Networking & Content Delivery >](04-networking-content-delivery.md)
 </p>
