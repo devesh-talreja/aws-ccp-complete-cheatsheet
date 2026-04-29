@@ -19,7 +19,6 @@ I built this comprehensive revision guide while preparing for my **AWS Certified
 Use these as your final revision companion to bridge the gap between courses and your exam!
 
 ---
-all sections will be added before 30 april
 | #  | Section                                                                         | What's Inside                                                                                     |
 | -- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | 1  | [COMPUTE SERVICES](01-compute-services.md)                                | EC2, Lambda, Elastic Beanstalk, Lightsail, ECS, EKS                                               |
