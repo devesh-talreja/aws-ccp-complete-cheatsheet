@@ -1,0 +1,57 @@
+## ACRONYM MASTER LIST
+
+- **ACM:** AWS Certificate Manager
+- **ALB:** Application Load Balancer
+- **AMI:** Amazon Machine Image
+- **API:** Application Programming Interface
+- **ARN:** Amazon Resource Name
+- **AZ:** Availability Zone
+- **CDK:** Cloud Development Kit
+- **CDN:** Content Delivery Network
+- **CIDR:** Classless Inter-Domain Routing
+- **CLI:** Command Line Interface
+- **DDoS:** Distributed Denial of Service
+- **DMS:** Database Migration Service
+- **DNS:** Domain Name System
+- **DRM:** Digital Rights Management
+- **EBS:** Elastic Block Store
+- **EC2:** Elastic Compute Cloud
+- **ECR:** Elastic Container Registry
+- **ECS:** Elastic Container Service
+- **EFS:** Elastic File System
+- **EKS:** Elastic Kubernetes Service
+- **ELB:** Elastic Load Balancing
+- **EMR:** Elastic MapReduce
+- **ETL:** Extract, Transform, Load
+- **HSM:** Hardware Security Module
+- **IaaS:** Infrastructure as a Service
+- **IAM:** Identity and Access Management
+- **IOPS:** Input/Output Operations Per Second
+- **IoT:** Internet of Things
+- **KMS:** Key Management Service
+- **MFA:** Multi-Factor Authentication
+- **MGN:** Application Migration Service
+- **NACL:** Network Access Control List
+- **NAT:** Network Address Translation
+- **NFS:** Network File System
+- **NLB:** Network Load Balancer
+- **PaaS:** Platform as a Service
+- **RDS:** Relational Database Service
+- **RI:** Reserved Instance
+- **S3:** Simple Storage Service
+- **SaaS:** Software as a Service
+- **SDK:** Software Development Kit
+- **SG:** Security Group
+- **SNS:** Simple Notification Service
+- **SQS:** Simple Queue Service
+- **SSL/TLS:** Secure Sockets Layer / Transport Layer Security
+- **SSO:** Single Sign-On
+- **TAM:** Technical Account Manager
+- **VDI:** Virtual Desktop Infrastructure
+- **VPC:** Virtual Private Cloud
+- **VPN:** Virtual Private Network
+- **WAF:** Web Application Firewall
+
+---
+
+[< Pricing Quick Reference](20-pricing-quick-reference.md) | [Back to README](README.md) | [Real-World Use Cases >](22-real-world-scenarios.md)
